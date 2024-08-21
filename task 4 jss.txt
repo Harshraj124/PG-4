@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Welcome to my portfolio!');
+    // Add any additional interactivity or animations here
+});
